@@ -1,0 +1,32 @@
+*{
+	margin:0px;
+	padding:0px;
+	}
+body{
+	background-color:#a9a9aa;}
+
+
+.container{
+	background-color:white;}
+
+.navbar li{
+	margin:0 20px;}
+
+.navbar {
+  text-align: center;
+}
+
+.logo{}
+
+.redes2{
+	padding-top:6%;
+	display:relative;
+	bottom:0px;}
+
+.redes{
+	padding-top:6%; }
+
+
+.glyphicon.glyphicon-search {
+    font-size:200%;
+}

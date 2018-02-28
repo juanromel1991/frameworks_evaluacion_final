@@ -1,0 +1,7 @@
+.slogan{
+  font-family:cursive;
+}
+
+img[src$=jpg]{
+  width: 10%;
+}
